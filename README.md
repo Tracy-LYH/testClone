@@ -1,4 +1,7 @@
 # testClone
 This is a project for practice git clone.
 
-The 1th commit
+The first commit.
+
+The Second commit.
+
